@@ -13,6 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('There is a development version')
     print_hi('another hi')
-    print_hi('something NEW')
+    print_hi('somethinggg NEW')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
